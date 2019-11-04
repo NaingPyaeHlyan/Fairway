@@ -1,0 +1,191 @@
+<resources>
+    <string name="app_name">Fairway Technology</string>
+
+    <string name="action_admin">Admin Panel</string>
+    <string name="title_detail">သင်ကြားမည့် အရာများ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="reg_title">ကျောင်းသား အချက်အလက်ဖြည့်ရန်</string>
+    <string name="reg_name">Name *</string>
+    <string name="reg_email">E-Mail</string>
+    <string name="reg_ph">Phone *</string>
+    <string name="reg_address">Address</string>
+    <string name="reg_password">Password</string>
+    <string name="next"><![CDATA[Next >>]]></string>
+    <string name="previous"><![CDATA[<< Previous]]></string>
+    <string name="login">ဝင်ရောက်ရန်</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="reg2_title">လက်ရှိ အလုပ်အကိုင်</string>
+    <string name="reg2_web">Web Developer</string>
+    <string name="reg2_app">Application Developer</string>
+    <string name="reg2_designer">Designer</string>
+    <string name="reg2_student">Student</string>
+    <string name="reg2_other">အခြား</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="reg3_title">ရွေးချယ်လုပ်ကိုင်လိုသည့် လုပ်ငန်း</string>
+    <string name="reg3_web">Web Developer</string>
+    <string name="reg3_software">Software Developer</string>
+    <string name="reg3_mobile">Mobile Developer</string>
+    <string name="reg3_backEnd">Back-End Developer</string>
+    <string name="reg3_Front">Front-End Developer</string>
+    <string name="reg3_graphic">Graphic Designer</string>
+    <string name="reg3_webdesigner">Web Designer</string>
+    <string name="reg3_uiux">UI/UX Designer</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="reg4_title">လက်ရှိတတ်ကျွမ်းသည့် နည်းပညာ</string>
+    <string name="reg4_html">HTML/CSS</string>
+    <string name="reg4_js">JavaScript</string>
+    <string name="reg4_php">PHP</string>
+    <string name="reg4_ruby">Ruby/Python</string>
+    <string name="reg4_csharp">C#/.Net/VB</string>
+    <string name="reg4_java">Java/Android</string>
+    <string name="reg4_basic">Basic Design</string>
+    <string name="reg4_drawing">Drawing</string>
+    <string name="reg4_photography">Photography</string>
+    <string name="reg4_print">Print Marking</string>
+    <string name="reg4_flim"><![CDATA[Flim & Video Making]]></string>
+    <string name="reg4_illustration">Illustration</string>
+    <string name="register">တက်ရောက်ရန်စာရင်းပေးမည်</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="recycler_items_course">ROCKSTAR DEVEVLOPER</string>
+    <string name="item_course">Course\n</string>
+    <string name="recycler_time">စက်တင်ဘာ ( ၇ ) ရက်နေ့ ဖွင့်မည်</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Example Details Activity
+    <string name="detail_items_info">PHOTOSHOP ကို အသုံးပြုပြီး WEB TEMPLATE များကို ဖန်တီးချင်သူများ၊ မိမိကိုယ်တိုင်ဖန်တီးထားသော WEB TEMPLATE များကို HTML, CSS, JAVASCRIPT, JQUERY အသုံးပြုကာ WEB BROWSER များတွင် မည်ကဲ့သို့ အလုပ်လုပ်သည်ကို လေ့လာချင်သူများ၊ WEB DESIGNER နှင့် FRONT-END DEVELOPER ဖြစ်ချင်သူများ၊ တက်သင့်သော သင်တန်းဖြစ်သည်။
+    PHOTOSHOP ကို အသုံးပြုပြီး WEB TEMPLATE များဖန်တီးတည်ဆောက်ပုံနှင့် UI/UX သဘောတရားများကို အခြေခံမှစပြီး သင်ကြားပေးသော သင်တန်းဖြစ်သည်။ HTML, CSS ELEMENT များကိုု အခြေခံမှ စတင်သင်ကြားပေးမှာဖြစ်ပြီး CSS FRAMEWORK တစ်ခုုဖြစ်သော BOOTSTRAP ကို အသုံ;ပြုကာ RESPONSIVE WEBSITE တစ်ခုကို တည်ဆောက်နိုင်သည်အထိ သင်ကြားပေးသောသင်တန်းဖြစ်သည်။ သင်တန်းကာလအတွင်းတွင်လည်း UI TEMPLATE များ၊ WEBSITE TEMPLATE DESIGN များကို ဆရာနှင့်အတူ ဖန်တီးသွားမည်ဖြစ်သည်။</string>
+    <string name="detail_items_opening_date">Sat - Sun</string>
+    <string name="detail_items_opening_time">01 PM - 03 PM</string>
+    <string name="detail_items_course_duration">၃ လ</string>
+    <string name="detail_items_course_fee">၂ သိန်း ကျပ်</string>
+    <string name="detail_items_course_trainer">ဆရာ ဦးအိမောင်</string>
+    <string name="detail_items_contact_phone">၀၉ ၄၃၁၀ ၈၇၆၃ ၊ ၀၉ ၇၉ ၅၂၀၀ ၄၃၃</string>
+    <string name="detail_items_contact">ဆက်သွယ်ရန်</string>
+    <string name="detail_items_address">လိပ်စာ ။ ။ အမှတ် (၄၃၃) အခန်း (8-C)၊ ကုန်သည်လမ်း (သိမ်ဖြူလမ်းထောင့်) ၊ဗိုလ်တစ်ထောင်မြို့နယ်၊ ရန်ကုန်။</string> -->
+
+    <string name="spinner_date">သင်တန်းဖွင့်မည့်ရက်</string>
+    <string name="spinner_time"> ဖွင့်မည့်ရက်</string>
+    <string name="spinner_duration">သင်တန်းကာလ</string>
+    <string name="spinner_fee">သင်တန်းကြေး</string>
+    <string name="spinner_trainer">သင်ကြားမည့်ဆရာ</string>
+
+    <!-- Insert Activity -->
+    <string name="admin_title">Title</string>
+    <string name="admin_course_info">Course Information</string>
+    <string name="admin_date">Date</string>
+    <string name="admin_time">Time</string>
+    <string name="admin_duration">Course Duration</string>
+    <string name="admin_fee">Course Fee</string>
+    <string name="admin_trainer">Trainer</string>
+    <string name="admin_ph">Contact Ph number</string>
+    <string name="admin_img">Add image</string>
+    <string name="admin_post">INSERT</string>
+    <string name="admin_cancel">CANCEL</string>
+    <string name="admin_open_class">သင်တန်းသစ် စမည့်ရက် ကြေညာပါမည်။</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+
+    <!-- Open Class Date -->
+    <string name="std_name">Student Name</string>
+
+
+    <!-- Open Class Time -->
+    <string name="std_course">Course Name</string>
+
+
+    <!-- Course Duration -->
+    <string name="date_format">dd/MM/yyyy</string>
+
+    <!-- Course Fee -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Course Trainer -->
+    <string-array name="array_class_date">
+        <item>Sat - Sun</item>
+        <item>Mon - Fri</item>
+        <item>Mon to Fri</item>
+    </string-array>
+
+    <!-- Course Type -->
+    <string-array name="array_class_time">
+        <item>08 AM - 10 AM</item>
+        <item>09 AM - 11 AM</item>
+        <item>10 AM - 12 AM</item>
+        <item>11 AM - 01 PM</item>
+        <item>12 AM - 02 PM</item>
+        <item>01 PM - 03 PM</item>
+        <item>02 PM - 04 PM</item>
+        <item>03 PM - 05 PM</item>
+        <item>04 PM - 06 PM</item>
+        <item>05 PM - 07 PM</item>
+        <item>06 PM - 08 PM</item>
+    </string-array>
+
+    <string-array name="array_course_duration">
+        <item>၁ လ</item>
+        <item>၁ လ ခွဲ</item>
+        <item>၂ လ</item>
+        <item>၂ လ ခွဲ</item>
+        <item>၃ လ</item>
+    </string-array>
+    <string-array name="array_course_fee">
+        <item>၁ သိန်း ကျပ်</item>
+        <item>၁ သိန်း ခွဲ ကျပ်</item>
+        <item>၂ သိန်း ကျပ်</item>
+        <item>၂ သိန်းခွဲ ကျပ်</item>
+    </string-array>
+    <string-array name="array_course_trainer">
+        <item>ဆရာ ဦးအိမောင်</item>
+        <item>ဆရာ ဦးကျော်ဇင်စိုး</item>
+        <item>ဆရာ ဦးလှပေါ်သိန်း</item>
+        <item>ဆရာ ဦးမျိုးမောင်မောင်</item>
+        <item>ဆရာ ဦးအောင်စံပေါ်</item>
+        <item>ဆရာ ဦးစိုင်းဘိုဘို</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="array_course_type">
+        <item>Design Course</item>
+        <item>Fundamental Course</item>
+        <item>Developer Course</item>
+        <item>Course</item>
+        <item>With Wordpress</item>
+        <item><![CDATA[Design & Front-End Developer Course]]></item>
+        <item>Developer Course (Weekdays)</item>
+    </string-array>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="send_message">message ပို့မည်</string>
+
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_signout">Sign out</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_registered">Registered</string>
+    <string name="menu_adminpanel">Admin Panel</string>
+    <string name="menu_regcourse">Registered Course</string>
+
+
+    <string name="facebook_app_id">422575255072795</string>
+    <string name="fb_login_protocol_scheme">fb422575255072795</string>
+</resources>

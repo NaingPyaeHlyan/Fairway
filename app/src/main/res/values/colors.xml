@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b5998</color>
+    <color name="colorPrimaryDark">#003069</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#F0F0F0</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorBrown">#4f4f4f</color>
+    <color name="colorGreen">#50BD60</color>
+    <color name="bg_color_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

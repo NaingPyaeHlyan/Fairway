@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "160201427386",
+    "firebase_url": "https://fairway-push-notificatio-d48e0.firebaseio.com",
+    "project_id": "fairway-push-notificatio-d48e0",
+    "storage_bucket": "fairway-push-notificatio-d48e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160201427386:android:3ed81814f95ccea6cdf583",
+        "android_client_info": {
+          "package_name": "mm.com.fairwaytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160201427386-4ti5lvsk0tdg070v5hgfhc42panftccl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mm.com.fairwaytech",
+            "certificate_hash": "677dd4946b21577998baf7c1304e8e0107b5845a"
+          }
+        },
+        {
+          "client_id": "160201427386-lsqjknkp0k31bhcr9kpeh1f0p5csnljo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mm.com.fairwaytech",
+            "certificate_hash": "c3016fc079d2786da671f2616fca0dba2a430828"
+          }
+        },
+        {
+          "client_id": "160201427386-u31ve3a1ao8ttfe3mv1jfkh1hsklhct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAv-7_ulJid4fc5HLW3FNMd3dA1oxIXE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160201427386-u31ve3a1ao8ttfe3mv1jfkh1hsklhct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

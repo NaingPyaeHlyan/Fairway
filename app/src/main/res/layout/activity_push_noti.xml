@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Navigation.ui.PushNotification.PushNotiActivity">
+
+    <TextView
+        android:id="@+id/tv_push_Topic"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:textColor="@color/colorPrimary"
+        android:text="Push Notification"
+        android:layout_marginTop="64dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/push_noti_et_title"
+        android:hint="Title"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:singleLine="true"
+        android:textColor="@color/colorAccent"
+        android:background="@drawable/rv_round"
+        android:layout_marginTop="32dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginEnd="28dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/push_noti_et_body"
+        android:background="@drawable/rv_round"
+        android:inputType="textMultiLine"
+        android:textColor="@color/colorPrimary"
+        android:gravity="start"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginEnd="28dp"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:hint="Body" />
+
+    <Button
+        android:onClick="sendPushNoti"
+        android:text="@string/send_message"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="32dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginEnd="64dp"
+        android:background="@drawable/btn_round"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

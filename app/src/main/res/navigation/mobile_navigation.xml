@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="mm.com.fairwaytech.Navigation.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_registered"
+        android:name="mm.com.fairwaytech.Navigation.ui.registered.RegisteredFragment"
+        android:label="@string/menu_registered"
+        tools:layout="@layout/fragment_registered" />
+
+    <fragment
+        android:id="@+id/nav_adminPanel"
+        android:name="mm.com.fairwaytech.Navigation.ui.admin.AdminPanelFragment"
+        android:label="@string/action_admin"
+        tools:layout="@layout/fragment_admin_panel" />
+
+    <fragment
+        android:id="@+id/nav_registered_course"
+        android:name="mm.com.fairwaytech.Navigation.ui.admin.AdminRegisteredCourseFragment"
+        android:label="@string/menu_regcourse"
+        tools:layout="@layout/fragment_admin_registered_course" />
+</navigation>
